@@ -5,14 +5,14 @@ img{
 }
 body{
     text-align: center;
-    background-color: rgb(0, 0, 0);
+    background-color: hsl(0, 0%, 0%);
 }
 h1{
     color: hwb(237 0% 0%);
     font-size: 60px;
 }
 h2{
-    color: #000000;
+    color: #004cff;
     font-size: 19px;
 }
 h3{
